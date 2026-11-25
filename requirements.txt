@@ -1,0 +1,7 @@
+# Python dependencies for the Airport Details Finder app
+# Install with:  pip install -r requirements.txt
+
+streamlit==1.67.0
+pandas==2.2.3
+folium==1.0.0
+pycountry==26.2.16
